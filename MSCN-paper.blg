@@ -1,0 +1,8 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: MSCN-paper.aux
+The style file: plain.bst
+Illegal, another \bibstyle command---line 50 of file MSCN-paper.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+(There was 1 error message)
